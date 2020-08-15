@@ -1026,8 +1026,7 @@ var modals = function modals() {
   }
 
   modalsShow(".button-design", ".popup-design", ".popup-design .popup-close");
-  modalsShow(".button-consultation", ".popup-consultation", ".popup-consultation .popup-close");
-  modalsShowByTime(".popup-consultation", 6000);
+  modalsShow(".button-consultation", ".popup-consultation", ".popup-consultation .popup-close"); //modalsShowByTime(".popup-consultation", 6000);
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (modals);

@@ -88,7 +88,7 @@ const modals = () => {
     ".popup-consultation",
     ".popup-consultation .popup-close"
   );
-  modalsShowByTime(".popup-consultation", 6000);
+  //modalsShowByTime(".popup-consultation", 6000);
 };
 
 export default modals;
